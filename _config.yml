@@ -24,9 +24,9 @@ author:
   avatar           : "1704345819126.jpg"
   name             : "Moses Immanuel Merugu"
   pronouns         : # example: "she/her"  
-  bio              : |
-                      "Computer Science Graduate 
-                      Seeking Entry-Level Roles in Software Development & Data Analytics"
+  bio              : >
+                    "Computer Science Graduate 
+                    Seeking Entry-Level Roles in Software Development & Data Analytics"
   location         : "Fullerton, CA"
   employer         : #
   uri              : # URL
