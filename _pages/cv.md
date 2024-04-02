@@ -22,7 +22,9 @@ Architecture, Parallel and Distributed Computing
 Skills
 ======
 * Languages
-  * Python * R * SQL
+  * Python
+  * R
+  * SQL
   * C++
   * C#
   * Java
@@ -33,13 +35,30 @@ Skills
   * Swift
 
 * Technologies & Tools
-  * Tableau, Power BI, MySQL, MariaDB, pandas, matplotlib, , seaborn, REST APIs, Node.js, React,
-    Jupyter, Git, GitHub, Jira, Microsoft Office
+  * Tableau
+  * Power BI
+  * MySQL
+  * MariaDB
+  * pandas
+  * matplotlib
+  * seaborn
+  * REST APIs
+  * Node.js
+  * React
+  * Jupyter
+  * Git
+  * GitHub
+  * Jira
+  * Microsoft Office
 
 * Operating Systems
-  * Windows, macOS, Linux, iOS
+  * Windows
+  * macOS
+  * Linux
+  * iOS
 * Development Methodologies
-  * Agile, Scrum
+  * Agile
+  * Scrum
   
 Skills
 ======
