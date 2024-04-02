@@ -12,23 +12,26 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, California State University, Fullerton (CSUF) Aug 2018 - Dec 2022
+* Honors: cum laude; GPA: 3.64
+* Relevant Coursework: Object-Oriented Programming, Data Structures, Computer Organization and Assembly
+Language, Operating System Concepts, Technical Writing for Computer Science, Compilers and Languages, File
+Structure & Databases, Algorithm Engineering, Computer Security, Software Engineering, Data Science & Big
+Data, Computer Communications, Artificial Intelligence, Web Front-End Engineering, Computer System
+Architecture, Parallel and Distributed Computing
 
-Work experience
+Skills
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Languages
+  * Python, R, SQL, C++, C#, Java, HTML, CSS, Javascript, PHP, Swift
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Technologies & Tools
+  * Tableau, Power BI, MySQL, MariaDB, pandas, matplotlib, , seaborn, REST APIs, Node.js, React,
+    Jupyter, Git, GitHub, Jira, Microsoft Office
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Operating Systems
+  * Windows, macOS, Linux, iOS
+* Development Methodologies
+  * Agile, Scrum
   
 Skills
 ======
