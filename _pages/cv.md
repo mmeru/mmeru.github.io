@@ -22,7 +22,15 @@ Architecture, Parallel and Distributed Computing
 Skills
 ======
 * Languages
-  * Python, R, SQL, C++, C#, Java, HTML, CSS, Javascript, PHP, Swift
+  * Python * R * SQL
+  * C++
+  * C#
+  * Java
+  * HTML
+  * CSS
+  * Javascript
+  * PHP
+  * Swift
 
 * Technologies & Tools
   * Tableau, Power BI, MySQL, MariaDB, pandas, matplotlib, , seaborn, REST APIs, Node.js, React,
