@@ -57,6 +57,6 @@ Skills
   * macOS
   * Linux
   * iOS
-* Development Methodologies
+* **Development Methodologies:**
   * Agile
   * Scrum
