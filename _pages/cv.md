@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, California State University, Fullerton (CSUF)
+* **B.S. in Computer Science, California State University, Fullerton (CSUF)**
 * **Honors:** cum laude
 * **GPA:** 3.64
 * **Relevant Coursework:** Object-Oriented Programming, Data Structures, Computer Organization and Assembly
@@ -22,7 +22,7 @@ Architecture, Parallel and Distributed Computing
 
 Skills
 ======
-* Languages
+* **Languages:**
   * Python
   * R
   * SQL
@@ -35,7 +35,7 @@ Skills
   * PHP
   * Swift
 
-* Technologies & Tools
+* **Technologies & Tools:**
   * Tableau
   * Power BI
   * MySQL
@@ -52,7 +52,7 @@ Skills
   * Jira
   * Microsoft Office
 
-* Operating Systems
+* **Operating Systems:**
   * Windows
   * macOS
   * Linux
