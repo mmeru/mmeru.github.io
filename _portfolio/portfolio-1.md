@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Web Scraping/Sentiment Analysis of Steam Game Reviews"
+excerpt: "Using Python, Pandas, Selenium, NLTK, Matplotlib, and Plotly<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
