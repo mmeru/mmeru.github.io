@@ -27,22 +27,20 @@ My Skills
   * R
   * SQL
   * C++
-  * C#
-  * Java
   * HTML
   * CSS
   * Javascript
-  * PHP
-  * Swift
 
 * **Technologies & Tools:**
   * Tableau
   * Power BI
   * MySQL
+  * Microsoft SQL Server
   * MariaDB
-  * pandas
-  * matplotlib
-  * seaborn
+  * Pandas
+  * Selenium
+  * Matplotlib
+  * Seaborn
   * REST APIs
   * Node.js
   * React
