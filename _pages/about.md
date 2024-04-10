@@ -39,6 +39,7 @@ My Skills
   * MariaDB
   * Pandas
   * Selenium
+  * NLTK
   * Matplotlib
   * Seaborn
   * REST APIs
