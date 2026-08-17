@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate of computer science seeking an entry-level positions in software engineering and data analytics.
+Current MSCS student @ USC.
 
 My Education
 ======
-* **B.S. in Computer Science, California State University, Fullerton (CSUF)**
+* **M.S. in Computer Science, University of Southern California (Expected graduation May 2028)**
+* **B.S. in Computer Science, California State University, Fullerton (Graduated)**
 * **Honors:** cum laude
 * **GPA:** 3.64
 * **Relevant Coursework:** Object-Oriented Programming, Data Structures, Computer Organization and Assembly
