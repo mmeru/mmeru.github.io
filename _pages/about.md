@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Current MSCS student @ USC.
+I'm a current MSCS student @ USC.
 
 My Education
 ======
