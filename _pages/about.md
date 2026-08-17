@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Welcome!"
+title:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I'm a current MSCS student @ USC.
-
 My Education
 ======
 * **M.S. in Computer Science, University of Southern California (Expected graduation May 2028)**
